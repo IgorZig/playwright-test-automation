@@ -70,7 +70,8 @@ This framework is integrated with Jenkins CI and Allure reporting to support aut
 The pipeline runs Playwright tests in Jenkins and publishes an Allure report after execution. This provides a clear view of total test cases, pass/fail status, and historical execution insights, which is useful for real-world test automation projects.
 
 ### Sample Allure Report
-<img width="1383" height="430" alt="Screenshot 2026-03-05 202635" src="https://github.com/user-attachments/assets/ab6932e8-abb4-4c56-801e-2123b1e4f190" />
+<img width="2559" height="1326" alt="Screenshot 2026-03-06 125855" src="https://github.com/user-attachments/assets/1254852a-36f2-493c-b156-84997f7c4e7d" />
+
 
 
 
