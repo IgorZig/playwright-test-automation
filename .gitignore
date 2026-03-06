@@ -1,0 +1,22 @@
+node_modules/
+test-results/
+playwright-report/
+
+# Allure reporting artifacts
+allure-results/
+allure-report/
+
+# Auth state - contains real JWT tokens, never commit
+state.json
+
+# Screenshots produced during test runs
+*.png
+*.jpg
+*.jpeg
+
+# macOS metadata
+.DS_Store
+
+# Environment variables (credentials)
+.env
+.env.local
