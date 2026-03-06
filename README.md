@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-Production-ready automation framework demonstrating real-world SDET skills: POM architecture, API hybrid testing, BDD scenarios, and Jenkins CI with Allure reporting.
+Production-ready Playwright test automation framework demonstrating real-world SDET practices, including POM architecture, API + UI hybrid testing, BDD scenarios, and Jenkins CI with Allure reporting.
 
 ## Tech Stack
 
@@ -16,6 +16,7 @@ Production-ready automation framework demonstrating real-world SDET skills: POM 
 | TypeScript | ^5.4.5 | Type safety |
 | Allure | ^2.9.0 | Test reporting |
 | Cucumber | ^12.7.0 | BDD scenarios |
+| Jankins|
 
 ## Quick Start
 
