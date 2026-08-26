@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-Production-ready Playwright test automation framework demonstrating real-world SDET practices, including POM architecture, API + UI hybrid testing, BDD scenarios, and Jenkins CI with Allure reporting.
+A Playwright test automation framework demonstrating real-world SDET practices, including POM architecture, hybrid API/UI testing, BDD scenarios, and Jenkins CI with Allure reporting.
 
 ## Tech Stack
 
